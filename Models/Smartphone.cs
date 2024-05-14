@@ -5,7 +5,6 @@ namespace DesafioPOO.Models
         public string Numero { get; set; }
         private string Modelo { get; set;}
         private string Imei  { get; set; }
-
         private int Memoria { get; set; }
 
       
